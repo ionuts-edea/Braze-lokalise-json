@@ -222,7 +222,7 @@
     "audience" : "everyone",
     "incentive" : "incentive",
     "banner_type" : "banner",
-    "mailing_type" : null,
+    "mailing_type" : "lifecycle",
     "location" : "bottom"
   }, {
     "name" : "everyone.banner.no_incentive.1",
@@ -246,7 +246,7 @@
     "audience" : "cats",
     "incentive" : "incentive",
     "banner_type" : "banner",
-    "mailing_type" : null,
+    "mailing_type" : "campaign",
     "location" : "bottom"
   }, {
     "name" : "cats.banner.no_incentive.1",
