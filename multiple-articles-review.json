@@ -1,0 +1,51 @@
+{
+  "capApplied": 4,
+  "articles": [
+    {
+      "articleId": 1862229,
+      "url": "https://www.zooplus.ro/feedback/form/shop/caini/hrana_umeda_caini/brit/pachete_economice/1862229",
+      "imageUrl": "https://media.zooplus.com/bilder/6/200/384441_pla_brit_patemeat_lamm_400g_hs_01_6.jpg",
+      "productTitle": "Pachet economic Brit Paté & Meat 12 x 400 g",
+      "variantTitle": "Miel",
+      "variantDescription": "<strong>Profită acum!</strong> Hrană completă pentru câini, pate cu bucăți de carne &amp; măruntaie, ingrediente de înaltă calitate &amp; preparare atentă pentru cel mai bun gust, fără OMG, soia &amp; cereale, digerabilă<br>&nbsp;",
+      "ReviewsCount": 5,
+      "averageRating": 4
+    },
+	{
+      "articleId": 1862229,
+      "url": "https://www.zooplus.ro/feedback/form/shop/caini/hrana_umeda_caini/brit/pachete_economice/1862229",
+      "imageUrl": "https://media.zooplus.com/bilder/6/200/384441_pla_brit_patemeat_lamm_400g_hs_01_6.jpg",
+      "productTitle": "Pachet 2 economic Brit Paté & Meat 12 x 400 g",
+      "variantTitle": "Miel",
+      "variantDescription": "<strong>Profită acum!</strong> Hrană completă pentru câini, pate cu bucăți de carne &amp; măruntaie, ingrediente de înaltă calitate &amp; preparare atentă pentru cel mai bun gust, fără OMG, soia &amp; cereale, digerabilă<br>&nbsp;",
+      "ReviewsCount": 5,
+      "averageRating": 4
+    },
+	{
+      "articleId": 1862229,
+      "url": "https://www.zooplus.ro/feedback/form/shop/caini/hrana_umeda_caini/brit/pachete_economice/1862229",
+      "imageUrl": "https://media.zooplus.com/bilder/6/200/384441_pla_brit_patemeat_lamm_400g_hs_01_6.jpg",
+      "productTitle": "Pachet 3 economic Brit Paté & Meat 12 x 400 g",
+      "variantTitle": "Miel",
+      "variantDescription": "<strong>Profită acum!</strong> Hrană completă pentru câini, pate cu bucăți de carne &amp; măruntaie, ingrediente de înaltă calitate &amp; preparare atentă pentru cel mai bun gust, fără OMG, soia &amp; cereale, digerabilă<br>&nbsp;",
+      "ReviewsCount": 5,
+      "averageRating": 4
+    },
+	{
+      "articleId": 1862229,
+      "url": "https://www.zooplus.ro/feedback/form/shop/caini/hrana_umeda_caini/brit/pachete_economice/1862229",
+      "imageUrl": "https://media.zooplus.com/bilder/6/200/384441_pla_brit_patemeat_lamm_400g_hs_01_6.jpg",
+      "productTitle": "Pachet 4 economic Brit Paté & Meat 12 x 400 g",
+      "variantTitle": "Miel",
+      "variantDescription": "<strong>Profită acum!</strong> Hrană completă pentru câini, pate cu bucăți de carne &amp; măruntaie, ingrediente de înaltă calitate &amp; preparare atentă pentru cel mai bun gust, fără OMG, soia &amp; cereale, digerabilă<br>&nbsp;",
+      "ReviewsCount": 5,
+      "averageRating": 0.2
+    }
+  ],
+  "articlesSkipped": [
+    {
+      "articleId": 0,
+      "reason": "MAX_CAP_REACHED"
+    }
+  ]
+}
